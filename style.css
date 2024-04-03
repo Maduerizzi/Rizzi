@@ -1,3 +1,4 @@
+
 p{
   text-align: center;
   font-size: 15px;
@@ -7,21 +8,12 @@ h1{
   text-align: center;
   font-size: 30px;
 }
-#selo{
-  text-align:center;
-  font-size: 16px;
-}
-.texto{
-  text-align: center;
-  font-size: 25px;
-}
+
 body{
-  background-color:
+    background: linear-gradient(to bottom, #ff9999, #ff6666);
+    text-align: center;
 }
-.texto2{
-  text-align: center;
-  font-size: 16px;
-}
+
 
 h2{ 
   text-align: center;
