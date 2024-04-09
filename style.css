@@ -5,6 +5,17 @@ p{
   font-family: Arial, sans-serif;
 }
 
+#selo{
+  color:#f34739;
+  text-align:center;
+  font-size: 38px;
+}
+.texto{
+  color:#d90f5a;
+  text-align: center;
+  font-size: 45px;
+}
+
 h1{
   text-align: center;
   font-size: 30px;
