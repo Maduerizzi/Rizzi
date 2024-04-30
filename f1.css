@@ -5,12 +5,18 @@ h1 {
   font-family: Arial, sans-serif;
 }
 
-/* Estilo para os parágrafos */
-p {
-  text-align: justify;
-  font-size: 16px;
+/* Estilo para parágrafos ímpares */
+.paragrafo-impar {
+  font-size: 16pt;
   font-family: Arial, sans-serif;
-  line-height: 1.5;
+  color: red;
+}
+
+/* Estilo para parágrafos pares */
+.paragrafo-par {
+  font-size: 20pt;
+  font-family: Verdana, sans-serif;
+  color: blue;
 }
 
 /* Estilo para links */
