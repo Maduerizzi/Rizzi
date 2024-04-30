@@ -1,47 +1,47 @@
 
-p{
+/* Estilo para todos os parágrafos */
+p {
   text-align: center;
   font-size: 15px;
   font-family: Arial, sans-serif;
 }
 
-#selo{
-  color:#f34739;
-  text-align:center;
+/* Estilo para o parágrafo com o id "selo" */
+#selo {
+  color: #f34739;
+  text-align: center;
   font-size: 40px;
 }
-.texto{
-  color:#cc0000;
+
+/* Estilo para a classe "texto" */
+.texto {
+  color: #cc0000;
   text-align: center;
   font-size: 45px;
 }
 
-h1{
+/* Estilo para todos os títulos h1 e h2 */
+h1, h2 {
   text-align: center;
   font-size: 30px;
   font-family: Arial, sans-serif;
 }
 
-body{
-    background: linear-gradient(to bottom, #ff6666, #6666ff);
-    text-align: center;
-  
-}
-
-
-h2{ 
-  text-align: center;
-  font-size: 30px;
-  font-family: Arial, sans-serif;
-}
-
-a{
+/* Estilo para todos os links */
+a {
   color: blue;
   font-size: 15px;
   text-decoration: none;
 }
 
+/* Estilo para as imagens */
 img {
-    display: block;
-    margin: 0 auto;
+  display: block;
+  margin: 0 auto;
+}
+
+/* Estilo para o corpo da página */
+body {
+  background: linear-gradient(to bottom, #ff6666, #6666ff);
+  text-align: center;
 }
